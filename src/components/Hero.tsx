@@ -148,10 +148,14 @@ const Hero = () => {
               </span>
               <div className="absolute inset-0 bg-gradient-to-r from-gray-600 to-gray-700 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </button>
-            <button className="px-10 py-4 border-2 border-gray-400 text-gray-300 font-semibold rounded-xl hover:bg-gradient-to-r hover:from-gray-600 hover:to-gray-700 hover:text-white hover:border-transparent transition-all duration-300 hover:scale-105 hover:shadow-3d relative overflow-hidden group animate-button-3d">
+            <a
+              href="/resume.pdf"
+              download
+              className="px-10 py-4 border-2 border-gray-400 text-gray-300 font-semibold rounded-xl hover:bg-gradient-to-r hover:from-gray-600 hover:to-gray-700 hover:text-white hover:border-transparent transition-all duration-300 hover:scale-105 hover:shadow-3d relative overflow-hidden group animate-button-3d text-center"
+            >
               <span className="relative z-10">Download CV</span>
               <div className="absolute inset-0 bg-gradient-to-r from-gray-600 to-gray-700 transform -translate-x-full group-hover:translate-x-0 transition-transform duration-300"></div>
-            </button>
+            </a>
           </div>
 
           {/* 3D Scroll Indicator */}
