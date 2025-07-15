@@ -115,20 +115,20 @@ const Hero = () => {
           {/* 3D Social Links */}
           <div className="flex justify-center space-x-6 mb-12 animate-fade-in-up delay-600">
             <a
-              href="#"
+              href="https://github.com/sam-2707"
               className="p-4 bg-gray-800/80 backdrop-blur-sm rounded-xl hover:bg-gradient-to-r hover:from-gray-600 hover:to-gray-700 transition-all duration-300 group hover:scale-110 hover:shadow-3d transform-gpu animate-social-float"
             >
               <Github size={28} className="text-gray-300 group-hover:text-white transition-colors duration-300" />
             </a>
             <a
-              href="#"
+              href="www.linkedin.com/in/sameer-krishn"
               className="p-4 bg-gray-800/80 backdrop-blur-sm rounded-xl hover:bg-gradient-to-r hover:from-gray-500 hover:to-gray-600 transition-all duration-300 group hover:scale-110 hover:shadow-3d transform-gpu animate-social-float"
               style={{ animationDelay: '0.2s' }}
             >
               <Linkedin size={28} className="text-gray-300 group-hover:text-white transition-colors duration-300" />
             </a>
             <a
-              href="#"
+              href="mailto:krishnsameer54@gmail.com"
               className="p-4 bg-gray-800/80 backdrop-blur-sm rounded-xl hover:bg-gradient-to-r hover:from-gray-400 hover:to-gray-500 transition-all duration-300 group hover:scale-110 hover:shadow-3d transform-gpu animate-social-float"
               style={{ animationDelay: '0.4s' }}
             >
