@@ -48,7 +48,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-gray-900/95 backdrop-blur-sm border-b border-gray-800 shadow-3d">
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-3xl font-bold bg-gradient-to-r from-gray-200 to-white bg-clip-text text-transparent animate-logo-3d text-shadow-3d">
+          <div className="text-3xl font-bold text-white animate-logo-3d text-shadow-3d">
             Portfolio
           </div>
           
