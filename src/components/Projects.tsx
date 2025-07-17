@@ -106,7 +106,7 @@ const Projects = () => {
           <div className="text-center mb-16 animate-fade-in-up">
             <h2 className="text-5xl md:text-6xl font-bold mb-6 text-shadow-3d">
               <span className="text-white">My</span>
-              <span className="bg-gradient-to-r from-gray-200 to-gray-400 bg-clip-text text-transparent animate-gradient-3d"> Projects</span>
+              <span className="text-white"> Projects</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
               Immersive 3D experiences and cutting-edge web applications
