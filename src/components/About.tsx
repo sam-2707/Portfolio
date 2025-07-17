@@ -64,7 +64,7 @@ const About = () => {
           <div className="text-center mb-16 animate-fade-in-up">
             <h2 className="text-5xl md:text-6xl font-bold mb-6 text-shadow-3d">
               <span className="text-white">About</span>
-              <span className="bg-gradient-to-r from-gray-200 to-gray-400 bg-clip-text text-transparent animate-gradient-3d"> Me</span>
+              <span className="text-white"> Me</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
               Passionate about creating digital experiences that push the boundaries of what's possible

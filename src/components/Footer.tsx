@@ -28,7 +28,7 @@ const Footer = () => {
           <div className="grid md:grid-cols-3 gap-8">
             {/* Logo and Description */}
             <div className="space-y-4 animate-footer-section-3d">
-              <div className="text-3xl font-bold bg-gradient-to-r from-gray-200 to-white bg-clip-text text-transparent text-shadow-3d">
+              <div className="text-white">
                 Sameer Krishn
               </div>
               <p className="text-gray-400 text-sm leading-relaxed">
